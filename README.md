@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Hi! I'm Noah
 
-<!--
-**TronARM98/TronARM98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Full Stack Developer 
 
-Here are some ideas to get you started:
+Here you'll find personal projects, experiments, and professional work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Programming Languages  
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,html,css" />
+</p>
+
+---
+
+## 🏗️ Frameworks & Technologies  
+
+### 🌐 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,expo" />
+</p>
+
+### 🛠️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,nestjs" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite" />
+</p>
+
+### ⚙️ DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,linux,nginx,bun" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TronARM98&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TronARM98&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## ✉️ Contact  
+Feel free to reach out if you want to chat or collaborate!
