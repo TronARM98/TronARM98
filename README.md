@@ -8,7 +8,12 @@ Here you'll find personal projects, experiments, and professional work.
 
 ## 🧠 Programming Languages  
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,html,css" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp" />
+</p>
+
+## 📄 Markup & Styling Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css" />
 </p>
 
 ---
@@ -17,7 +22,7 @@ Here you'll find personal projects, experiments, and professional work.
 
 ### 🌐 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,expo" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular" />
 </p>
 
 ### 🛠️ Backend
@@ -33,6 +38,11 @@ Here you'll find personal projects, experiments, and professional work.
 ### ⚙️ DevOps & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=docker,git,linux,nginx,bun" />
+</p>
+
+### 📝 Code Editors & IDEs
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea" />
 </p>
 
 ---
